@@ -107,6 +107,7 @@ LocalStorageUnlocked.js [url](https://kokofixcomputers.github.io/scratch-extensi
 objects.js [url](https://kokofixcomputers.github.io/scratch-extensions/objects.js)<br><br>
 PenguinPedia.js [url](https://kokofixcomputers.github.io/scratch-extensions/PenguinPedia.js)<br><br>
 indexedDB.js [url](https://kokofixcomputers.github.io/scratch-extensions/indexedDB.js)<br><br>
+ScriptControl.js [url](https://kokofixcomputers.github.io/scratch-extensions/ScriptControl.js)<br><br>
 ColorOnCanvas.js [url](https://kokofixcomputers.github.io/scratch-extensions/ColorOnCanvas.js)<br><br>
 Ruby Maps.js [url](https://kokofixcomputers.github.io/scratch-extensions/Ruby%20Maps.js)<br><br>
 KeyHistory.js [url](https://kokofixcomputers.github.io/scratch-extensions/KeyHistory.js)<br><br>
