@@ -133,6 +133,7 @@ PenPlusV6-Lukewarmfix.js [url](https://kokofixcomputers.github.io/scratch-extens
 Minecraft.js [url](https://kokofixcomputers.github.io/scratch-extensions/Minecraft.js)<br><br>
 YouTube-Operations.js [url](https://kokofixcomputers.github.io/scratch-extensions/YouTube-Operations.js)<br><br>
 RightClickMenu.js [url](https://kokofixcomputers.github.io/scratch-extensions/RightClickMenu.js)<br><br>
+KeySimulation.js [url](https://kokofixcomputers.github.io/scratch-extensions/KeySimulation.js)<br><br>
 Text_Check.js [url](https://kokofixcomputers.github.io/scratch-extensions/Text_Check.js)<br><br>
 NicheToolbox.js [url](https://kokofixcomputers.github.io/scratch-extensions/NicheToolbox.js)<br><br>
 1mbShortener.js [url](https://kokofixcomputers.github.io/scratch-extensions/1mbShortener.js)<br><br>
