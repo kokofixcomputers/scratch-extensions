@@ -43,6 +43,7 @@ DiscordAuth.js [url](https://kokofixcomputers.github.io/scratch-extensions/Disco
 weather.js [url](https://kokofixcomputers.github.io/scratch-extensions/weather.js)<br><br>
 Text-to-Speech.js [url](https://kokofixcomputers.github.io/scratch-extensions/Text-to-Speech.js)<br><br>
 QR-Codes.js [url](https://kokofixcomputers.github.io/scratch-extensions/QR-Codes.js)<br><br>
+Sensing-Plus.js [url](https://kokofixcomputers.github.io/scratch-extensions/Sensing-Plus.js)<br><br>
 browserutils.js [url](https://kokofixcomputers.github.io/scratch-extensions/browserutils.js)<br><br>
 Tune-Shark.js [url](https://kokofixcomputers.github.io/scratch-extensions/Tune-Shark.js)<br><br>
 mobilekeyboard.js [url](https://kokofixcomputers.github.io/scratch-extensions/mobilekeyboard.js)<br><br>
