@@ -3,7 +3,7 @@
 ## While these extenstions from here are tested and can be useful, bad ones in elsewhere can cause harm to your computer
 # Use at your own risks!
 
-Eureka may be useful for injecting these since some of them must be run unsandboxed: ahttps://github.com/EurekaScratch/eureka
+Eureka may be useful for injecting these since some of them must be run unsandboxed: [https://github.com/EurekaScratch/eureka](https://github.com/EurekaScratch/eureka) which can also inject extenstions into official scratch editor.
 
 List: <br> <br>
 spellCheck.js [url](https://kokofixcomputers.github.io/scratch-extensions/spellCheck.js)<br><br>
