@@ -17,6 +17,7 @@ collapsible.js [url](https://kokofixcomputers.github.io/scratch-extensions/colla
 ToastNotifs.js [url](https://kokofixcomputers.github.io/scratch-extensions/ToastNotifs.js)<br><br>
 Hyper-Sense.js [url](https://kokofixcomputers.github.io/scratch-extensions/Hyper-Sense.js)<br><br>
 Perlin-Noise.js [url](https://kokofixcomputers.github.io/scratch-extensions/Perlin-Noise.js)<br><br>
+2000-Expanded.js [url](https://kokofixcomputers.github.io/scratch-extensions/2000-Expanded.js)<br><br>
 Gamepad-Expanded.js [url](https://kokofixcomputers.github.io/scratch-extensions/Gamepad-Expanded.js)<br><br>
 tone-synth.js [url](https://kokofixcomputers.github.io/scratch-extensions/tone-synth.js)<br><br>
 Display-Text.js [url](https://kokofixcomputers.github.io/scratch-extensions/Display-Text.js)<br><br>
@@ -131,6 +132,7 @@ AudioRecording.js [url](https://kokofixcomputers.github.io/scratch-extensions/Au
 Staining.js [url](https://kokofixcomputers.github.io/scratch-extensions/Staining.js)<br><br>
 twitch.js [url](https://kokofixcomputers.github.io/scratch-extensions/twitch.js)<br><br>
 skins.js [url](https://kokofixcomputers.github.io/scratch-extensions/skins.js)<br><br>
+video.js [url](https://kokofixcomputers.github.io/scratch-extensions/video.js)<br><br>
 Money-Utilities.js [url](https://kokofixcomputers.github.io/scratch-extensions/Money-Utilities.js)<br><br>
 PenPlusV6-Lukewarmfix.js [url](https://kokofixcomputers.github.io/scratch-extensions/PenPlusV6-Lukewarmfix.js)<br><br>
 Minecraft.js [url](https://kokofixcomputers.github.io/scratch-extensions/Minecraft.js)<br><br>
