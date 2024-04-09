@@ -4,8 +4,11 @@
 # Use at your own risks!
 
 Eureka may be useful for injecting these since some of them must be run unsandboxed: [https://github.com/EurekaScratch/eureka](https://github.com/EurekaScratch/eureka) which can also inject extenstions into official scratch editor.
+## Contributing
+You can contribute by going to the repo and create a pull request. (https://github.com/kokofixcomputers/scratch-extensions)[https://github.com/kokofixcomputers/scratch-extensions]
 
-List: <br> <br>
+
+## List: <br> <br>
 spellCheck.js [url](https://kokofixcomputers.github.io/scratch-extensions/spellCheck.js)<br><br>
 ControlsPlus.js [url](https://kokofixcomputers.github.io/scratch-extensions/ControlsPlus.js)<br><br>
 LogicGates.js [url](https://kokofixcomputers.github.io/scratch-extensions/LogicGates.js)<br><br>
