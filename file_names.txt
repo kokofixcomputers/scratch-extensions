@@ -71,6 +71,7 @@ Discord API.js [url](https://kokofixcomputers.github.io/scratch-extensions/Disco
 lazy-music.js [url](https://kokofixcomputers.github.io/scratch-extensions/lazy-music.js)<br><br>
 UpgradedDangerousBusUseful.js [url](https://kokofixcomputers.github.io/scratch-extensions/UpgradedDangerousBusUseful.js)<br><br>
 CanvasTests.js [url](https://kokofixcomputers.github.io/scratch-extensions/CanvasTests.js)<br><br>
+encoding.js [url](https://kokofixcomputers.github.io/scratch-extensions/encoding.js)<br><br>
 itchio.js [url](https://kokofixcomputers.github.io/scratch-extensions/itchio.js)<br><br>
 Sty-Lists.js [url](https://kokofixcomputers.github.io/scratch-extensions/Sty-Lists.js)<br><br>
 More-Operators.js [url](https://kokofixcomputers.github.io/scratch-extensions/More-Operators.js)<br><br>

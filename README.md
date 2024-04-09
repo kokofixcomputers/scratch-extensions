@@ -79,6 +79,7 @@ Discord API.js [url](https://kokofixcomputers.github.io/scratch-extensions/Disco
 lazy-music.js [url](https://kokofixcomputers.github.io/scratch-extensions/lazy-music.js)<br><br>
 UpgradedDangerousBusUseful.js [url](https://kokofixcomputers.github.io/scratch-extensions/UpgradedDangerousBusUseful.js)<br><br>
 CanvasTests.js [url](https://kokofixcomputers.github.io/scratch-extensions/CanvasTests.js)<br><br>
+encoding.js [url](https://kokofixcomputers.github.io/scratch-extensions/encoding.js)<br><br>
 itchio.js [url](https://kokofixcomputers.github.io/scratch-extensions/itchio.js)<br><br>
 Sty-Lists.js [url](https://kokofixcomputers.github.io/scratch-extensions/Sty-Lists.js)<br><br>
 More-Operators.js [url](https://kokofixcomputers.github.io/scratch-extensions/More-Operators.js)<br><br>
@@ -141,6 +142,7 @@ PenPlusV6-Lukewarmfix.js [url](https://kokofixcomputers.github.io/scratch-extens
 Minecraft.js [url](https://kokofixcomputers.github.io/scratch-extensions/Minecraft.js)<br><br>
 YouTube-Operations.js [url](https://kokofixcomputers.github.io/scratch-extensions/YouTube-Operations.js)<br><br>
 RightClickMenu.js [url](https://kokofixcomputers.github.io/scratch-extensions/RightClickMenu.js)<br><br>
+KeySimulation.js [url](https://kokofixcomputers.github.io/scratch-extensions/KeySimulation.js)<br><br>
 Text_Check.js [url](https://kokofixcomputers.github.io/scratch-extensions/Text_Check.js)<br><br>
 NicheToolbox.js [url](https://kokofixcomputers.github.io/scratch-extensions/NicheToolbox.js)<br><br>
 1mbShortener.js [url](https://kokofixcomputers.github.io/scratch-extensions/1mbShortener.js)<br><br>
