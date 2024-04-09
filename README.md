@@ -135,6 +135,7 @@ clomega_turbowarp.js [url](https://kokofixcomputers.github.io/scratch-extensions
 AudioRecording.js [url](https://kokofixcomputers.github.io/scratch-extensions/AudioRecording.js)<br><br>
 Staining.js [url](https://kokofixcomputers.github.io/scratch-extensions/Staining.js)<br><br>
 twitch.js [url](https://kokofixcomputers.github.io/scratch-extensions/twitch.js)<br><br>
+skins.js [url](https://kokofixcomputers.github.io/scratch-extensions/skins.js)<br><br>
 Money-Utilities.js [url](https://kokofixcomputers.github.io/scratch-extensions/Money-Utilities.js)<br><br>
 PenPlusV6-Lukewarmfix.js [url](https://kokofixcomputers.github.io/scratch-extensions/PenPlusV6-Lukewarmfix.js)<br><br>
 Minecraft.js [url](https://kokofixcomputers.github.io/scratch-extensions/Minecraft.js)<br><br>
