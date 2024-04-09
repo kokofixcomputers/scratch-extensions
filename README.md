@@ -86,6 +86,7 @@ strmani.js [url](https://kokofixcomputers.github.io/scratch-extensions/strmani.j
 Extra-Controls.js [url](https://kokofixcomputers.github.io/scratch-extensions/Extra-Controls.js)<br><br>
 Fetch-Progress.js [url](https://kokofixcomputers.github.io/scratch-extensions/Fetch-Progress.js)<br><br>
 iframeplus.js [url](https://kokofixcomputers.github.io/scratch-extensions/iframeplus.js)<br><br>
+stretch.js [url](https://kokofixcomputers.github.io/scratch-extensions/stretch.js)<br><br>
 Script-Control-sp.js [url](https://kokofixcomputers.github.io/scratch-extensions/Script-Control-sp.js)<br><br>
 0tils.js [url](https://kokofixcomputers.github.io/scratch-extensions/0tils.js)<br><br>
 Better-Input.js [url](https://kokofixcomputers.github.io/scratch-extensions/Better-Input.js)<br><br>
@@ -93,9 +94,11 @@ Color-Master.js [url](https://kokofixcomputers.github.io/scratch-extensions/Colo
 GoFile.js [url](https://kokofixcomputers.github.io/scratch-extensions/GoFile.js)<br><br>
 reporterbucket.js [url](https://kokofixcomputers.github.io/scratch-extensions/reporterbucket.js)<br><br>
 ttsr.js [url](https://kokofixcomputers.github.io/scratch-extensions/ttsr.js)<br><br>
+readme_generator.py [url](https://kokofixcomputers.github.io/scratch-extensions/readme_generator.py)<br><br>
 ArrowBlock.js [url](https://kokofixcomputers.github.io/scratch-extensions/ArrowBlock.js)<br><br>
 Scratch-Utilities.js [url](https://kokofixcomputers.github.io/scratch-extensions/Scratch-Utilities.js)<br><br>
 Sharktilities.js [url](https://kokofixcomputers.github.io/scratch-extensions/Sharktilities.js)<br><br>
+README.md [url](https://kokofixcomputers.github.io/scratch-extensions/README.md)<br><br>
 resolution.js [url](https://kokofixcomputers.github.io/scratch-extensions/resolution.js)<br><br>
 FileManager.js [url](https://kokofixcomputers.github.io/scratch-extensions/FileManager.js)<br><br>
 Spotify.js [url](https://kokofixcomputers.github.io/scratch-extensions/Spotify.js)<br><br>
@@ -104,6 +107,7 @@ inlineblocks.js [url](https://kokofixcomputers.github.io/scratch-extensions/inli
 JavaScript.js [url](https://kokofixcomputers.github.io/scratch-extensions/JavaScript.js)<br><br>
 IP Address.js [url](https://kokofixcomputers.github.io/scratch-extensions/IP%20Address.js)<br><br>
 TurboGPT.js [url](https://kokofixcomputers.github.io/scratch-extensions/TurboGPT.js)<br><br>
+Clipboard.js [url](https://kokofixcomputers.github.io/scratch-extensions/Clipboard.js)<br><br>
 custom_shader.js [url](https://kokofixcomputers.github.io/scratch-extensions/custom_shader.js)<br><br>
 LocalStorageUnlocked.js [url](https://kokofixcomputers.github.io/scratch-extensions/LocalStorageUnlocked.js)<br><br>
 objects.js [url](https://kokofixcomputers.github.io/scratch-extensions/objects.js)<br><br>
@@ -121,6 +125,7 @@ Seeds.js [url](https://kokofixcomputers.github.io/scratch-extensions/Seeds.js)<b
 Analytics.js [url](https://kokofixcomputers.github.io/scratch-extensions/Analytics.js)<br><br>
 More-Types.js [url](https://kokofixcomputers.github.io/scratch-extensions/More-Types.js)<br><br>
 VectorUtils.js [url](https://kokofixcomputers.github.io/scratch-extensions/VectorUtils.js)<br><br>
+Animated Text.js [url](https://kokofixcomputers.github.io/scratch-extensions/Animated%20Text.js)<br><br>
 Speech-Bubbles.js [url](https://kokofixcomputers.github.io/scratch-extensions/Speech-Bubbles.js)<br><br>
 custom-shader.js [url](https://kokofixcomputers.github.io/scratch-extensions/custom-shader.js)<br><br>
 Captchas.js [url](https://kokofixcomputers.github.io/scratch-extensions/Captchas.js)<br><br>
@@ -141,6 +146,8 @@ NicheToolbox.js [url](https://kokofixcomputers.github.io/scratch-extensions/Nich
 OpenGL.js [url](https://kokofixcomputers.github.io/scratch-extensions/OpenGL.js)<br><br>
 Lazy-Collisions.js [url](https://kokofixcomputers.github.io/scratch-extensions/Lazy-Collisions.js)<br><br>
 LocalAccount.js [url](https://kokofixcomputers.github.io/scratch-extensions/LocalAccount.js)<br><br>
+file_names.txt [url](https://kokofixcomputers.github.io/scratch-extensions/file_names.txt)<br><br>
+.git [url](https://kokofixcomputers.github.io/scratch-extensions/.git)<br><br>
 std.uri.js [url](https://kokofixcomputers.github.io/scratch-extensions/std.uri.js)<br><br>
 Renderer-Control.js [url](https://kokofixcomputers.github.io/scratch-extensions/Renderer-Control.js)<br><br>
 Audiostream-Extended.js [url](https://kokofixcomputers.github.io/scratch-extensions/Audiostream-Extended.js)<br><br>

@@ -3,7 +3,7 @@ import urllib.parse
 
 
 # Set the directory you want to get the files from
-directory = '/Users/ct/Downloads/extensions-unmerged'
+directory = '/Users/ct/Git/scratch-extenstions/scratch-extensions'
 
 # Get a list of all the files in the directory
 files = os.listdir(directory)
