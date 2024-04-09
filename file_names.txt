@@ -157,6 +157,7 @@ mouse.js [url](https://kokofixcomputers.github.io/scratch-extensions/mouse.js)<b
 vr.js [url](https://kokofixcomputers.github.io/scratch-extensions/vr.js)<br><br>
 Image-Effects.js [url](https://kokofixcomputers.github.io/scratch-extensions/Image-Effects.js)<br><br>
 extendableblocks.js [url](https://kokofixcomputers.github.io/scratch-extensions/extendableblocks.js)<br><br>
+notifications.js [url](https://kokofixcomputers.github.io/scratch-extensions/notifications.js)<br><br>
 Speech2Text.js [url](https://kokofixcomputers.github.io/scratch-extensions/Speech2Text.js)<br><br>
 Sprite-Parenting.js [url](https://kokofixcomputers.github.io/scratch-extensions/Sprite-Parenting.js)<br><br>
 Since-2000.js [url](https://kokofixcomputers.github.io/scratch-extensions/Since-2000.js)<br><br>
