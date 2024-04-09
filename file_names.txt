@@ -68,6 +68,7 @@ Interpolation.js [url](https://kokofixcomputers.github.io/scratch-extensions/Int
 BeepBoxPlayer.js [url](https://kokofixcomputers.github.io/scratch-extensions/BeepBoxPlayer.js)<br><br>
 Monitors-Plus.js [url](https://kokofixcomputers.github.io/scratch-extensions/Monitors-Plus.js)<br><br>
 Discord API.js [url](https://kokofixcomputers.github.io/scratch-extensions/Discord%20API.js)<br><br>
+BetterComments.js [url](https://kokofixcomputers.github.io/scratch-extensions/BetterComments.js)<br><br>
 lazy-music.js [url](https://kokofixcomputers.github.io/scratch-extensions/lazy-music.js)<br><br>
 UpgradedDangerousBusUseful.js [url](https://kokofixcomputers.github.io/scratch-extensions/UpgradedDangerousBusUseful.js)<br><br>
 CanvasTests.js [url](https://kokofixcomputers.github.io/scratch-extensions/CanvasTests.js)<br><br>
