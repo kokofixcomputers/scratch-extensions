@@ -3,6 +3,8 @@
 ## While these extenstions from here are tested and can be useful, bad ones in elsewhere can cause harm to your computer
 # Use at your own risks!
 
+Eurek may be useful for injecting these since some of them must be run unsandboxed: ahttps://github.com/EurekaScratch/eureka
+
 List: <br> <br>
 spellCheck.js [url](https://kokofixcomputers.github.io/scratch-extensions/spellCheck.js)<br><br>
 ControlsPlus.js [url](https://kokofixcomputers.github.io/scratch-extensions/ControlsPlus.js)<br><br>
