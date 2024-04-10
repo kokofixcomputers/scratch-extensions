@@ -191,3 +191,4 @@ CollisionTags.js [url](https://kokofixcomputers.github.io/scratch-extensions/Col
 Pixel-Utilities.js [url](https://kokofixcomputers.github.io/scratch-extensions/Pixel-Utilities.js)<br><br>
 Script-Control.js [url](https://kokofixcomputers.github.io/scratch-extensions/Script-Control.js)<br><br>
 CustomStyles.js [url](https://kokofixcomputers.github.io/scratch-extensions/CustomStyles.js)<br><br>
+ColorPicker.js [url](https://kokofixcomputers.github.io/scratch-extensions/ColorPicker.js)<br><br>
