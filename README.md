@@ -193,3 +193,4 @@ Script-Control.js [url](https://kokofixcomputers.github.io/scratch-extensions/Sc
 CustomStyles.js [url](https://kokofixcomputers.github.io/scratch-extensions/CustomStyles.js)<br><br>
 ColorPicker.js [url](https://kokofixcomputers.github.io/scratch-extensions/ColorPicker.js)<br><br>
 controlcontrols.js [url](https://kokofixcomputers.github.io/scratch-extensions/controlcontrols.js)<br><br>
+Deltatime.js [url](https://kokofixcomputers.github.io/scratch-extensions/Deltatime.js)<br><br>
