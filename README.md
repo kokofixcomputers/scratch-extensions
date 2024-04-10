@@ -194,3 +194,13 @@ CustomStyles.js [url](https://kokofixcomputers.github.io/scratch-extensions/Cust
 ColorPicker.js [url](https://kokofixcomputers.github.io/scratch-extensions/ColorPicker.js)<br><br>
 controlcontrols.js [url](https://kokofixcomputers.github.io/scratch-extensions/controlcontrols.js)<br><br>
 Deltatime.js [url](https://kokofixcomputers.github.io/scratch-extensions/Deltatime.js)<br><br>
+MoreTimers.js [url](https://kokofixcomputers.github.io/scratch-extensions/MoreTimers.js)<br><br>
+SoundExpanded.js [url](https://kokofixcomputers.github.io/scratch-extensions/SoundExpanded.js)<br><br>
+TempVariables2.js [url](https://kokofixcomputers.github.io/scratch-extensions/TempVariables2.js)<br><br>
+cloudlink.js [url](https://kokofixcomputers.github.io/scratch-extensions/cloudlink.js)<br><br>
+clouddata-ping.js [url](https://kokofixcomputers.github.io/scratch-extensions/clouddata-ping.js)<br><br>
+regexp.js [url](https://kokofixcomputers.github.io/scratch-extensions/regexp.js)<br><br>
+ShovelUtils.js [url](https://kokofixcomputers.github.io/scratch-extensions/ShovelUtils.js)<br><br>
+searchApi.js [url](https://kokofixcomputers.github.io/scratch-extensions/searchApi.js)<br><br>
+zip.js [url](https://kokofixcomputers.github.io/scratch-extensions/zip.js)<br><br>
+Numericalencoding.js [url](https://kokofixcomputers.github.io/scratch-extensions/numericalencoding.js)<br><br>
