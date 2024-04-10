@@ -204,3 +204,4 @@ ShovelUtils.js [url](https://kokofixcomputers.github.io/scratch-extensions/Shove
 searchApi.js [url](https://kokofixcomputers.github.io/scratch-extensions/searchApi.js)<br><br>
 zip.js [url](https://kokofixcomputers.github.io/scratch-extensions/zip.js)<br><br>
 Numericalencoding.js [url](https://kokofixcomputers.github.io/scratch-extensions/numericalencoding.js)<br><br>
+Variables-Expanded.js [url](https://kokofixcomputers.github.io/scratch-extensions/Variables-Expanded.js)<br><br>
