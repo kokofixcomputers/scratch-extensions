@@ -26,7 +26,7 @@ def append_to_markdown(filename, markdown_file):
         full_path = os.path.join(current_directory, markdown_file)
         
         with open(full_path, 'a') as file:
-            file.write(f"{filename} [{os.path.splitext(filename)[0]}](https://kokofixcomputers.github.io/scratch-extensions/{os.path.splitext(filename)[0]}.js)<br><br>\n")
+            file.write(f"{filename} [url](https://kokofixcomputers.github.io/scratch-extensions/{os.path.splitext(filename)[0]}.js)<br><br>\n")
             file.close()
     except IOError as e:
         print(f"Error appending to Markdown file: {e}")
