@@ -208,3 +208,4 @@ VarsExtended.js [url](https://kokofixcomputers.github.io/scratch-extensions/Vars
 CollisionTags.js [url](https://kokofixcomputers.github.io/scratch-extensions/CollisionTags.js)<br><br>
 Pixel-Utilities.js [url](https://kokofixcomputers.github.io/scratch-extensions/Pixel-Utilities.js)<br><br>
 Script-Control.js [url](https://kokofixcomputers.github.io/scratch-extensions/Script-Control.js)<br><br>
+Messages-Plus.js [url](https://kokofixcomputers.github.io/scratch-extensions/Messages-Plus.js)<br><br>
