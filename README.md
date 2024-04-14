@@ -200,6 +200,7 @@ LayerManager.js [url](https://kokofixcomputers.github.io/scratch-extensions/Laye
 ChatGPT.js [url](https://kokofixcomputers.github.io/scratch-extensions/ChatGPT.js)<br><br>
 Assets.js [url](https://kokofixcomputers.github.io/scratch-extensions/Assets.js)<br><br>
 MoreTimers.js [url](https://kokofixcomputers.github.io/scratch-extensions/MoreTimers.js)<br><br>
+Messages-Plus.js [url](https://kokofixcomputers.github.io/scratch-extensions/Messages-Plus.js)<br><br>
 Added-Motion.js [url](https://kokofixcomputers.github.io/scratch-extensions/Added-Motion.js)<br><br>
 SpriteSheets.js [url](https://kokofixcomputers.github.io/scratch-extensions/SpriteSheets.js)<br><br>
 Files-Expanded.js [url](https://kokofixcomputers.github.io/scratch-extensions/Files-Expanded.js)<br><br>
