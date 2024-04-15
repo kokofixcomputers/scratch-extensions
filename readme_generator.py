@@ -1,7 +1,6 @@
 import os
 import urllib.parse
 
-#test
 
 # Set the directory you want to get the files from
 directory = '/Users/ct/Git/scratch-extenstions/scratch-extensions'
